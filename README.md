@@ -26,13 +26,15 @@ Are you coming to this page later in 2020 and do you wonder what is new among ob
 
 ---
 
-**TLDR** Hotspots of observations are in a big cities and protected areas. 
+**TLDR** 
 
-City Challenge considerably increased number of observations but these are mostly plants and birds. 
+* Hotspots of observations are in a big cities and protected areas. 
 
-Early spring and late autumn observations are underrepresented.
+* City Challenge considerably increased number of observations but these are mostly plants and birds. 
 
-Insects, fungi and spiders have potential for increase in the database of research grade obs. More specialists are needed.
+* Early spring and late autumn observations are underrepresented.
+
+* Insects, fungi and spiders have potential for increase in the database of research grade obs. More specialists are needed.
 
 
 ---
@@ -48,7 +50,7 @@ Below is statistics about speed of data upload and verification. Displayed are *
 
 
 ## Density of obs
-Shows observation density for the whole country. Interestingly, density hotspots are not restricted to bigger cities with a lot of users but are also present in protected areas. This is visible especially in the smaller areas such as Palava and Podyji. Further hotspots are due to locally active users (Ceska Lipa, Novy Jicin). 
+Shows observation density for the whole country. Interestingly, density hotspots are not restricted to bigger cities with a lot of users but are also present in protected areas. This is visible especially in the smaller areas such as Palava and Podyji. Further hotspots are due to locally active users (Ceska Lipa, Novy Jicin, Kromeriz). 
 
 Places with less or no observations are often less visited, not so accessible locations (Beskydy, Jeseniky, Zelezne hory, Cesky Les).
 
