@@ -31,28 +31,35 @@ Below is statistics about speed of data upload and verification. Displayed are m
 
 
 ## Density of obs
-Shows observation density for the whole country. Interestingly, density hotspots are not restricted to bigger cities with a lot of users but are also present in protected areas. This is visible especially in the smaller areas such as CHKO Palava and NP Podyji. Further hotspot are due to locally active users (Ceska Lipa, Novy Jicin). Places with less or no observations are often less visited, not so accessible locations (Beskydy, Jeseniky, Zelezne hory, Cesky Les).
+Shows observation density for the whole country. Interestingly, density hotspots are not restricted to bigger cities with a lot of users but are also present in protected areas. This is visible especially in the smaller areas such as Palava and Podyji. Further hotspots are due to locally active users (Ceska Lipa, Novy Jicin). 
 
-<div align="left">
-    <img src="/hex_map_edited.png?raw=true" width="400px"</img> 
+Places with less or no observations are often less visited, not so accessible locations (Beskydy, Jeseniky, Zelezne hory, Cesky Les).
+
+<div align="center">
+    <img src="/hex_map_edited.png?raw=true" width="600px"</img> 
 </div>
 
 
-And here increase during time. Some observations are historical from the users' archives.
-<div align="left">
-    <img src="/hex_map_history_edited.png?raw=true" width="400px"</img> 
+Historical insight. Some observations come from from the users' picture archives. 
+
+<div align="center">
+    <img src="/hex_map_history_edited.png?raw=true" width="600px"</img> 
 </div>
 
 
 ## Observation increase
 
-Observation increase since 2018.
+Histrogram of observations since 2018.
 
 <div align="left">
     <img src="/plot_obs.png?raw=true" width="400px"</img> 
 </div>
 
 Same data as cumulative sum with prediction model. Plato phase in winter 2019 after City challenge boost is visible.
+
+<div align="left">
+    <img src="/plot_obs_cum_sum.png?raw=true" width="400px"</img> 
+</div>
 
 ## Seasonal patterns
 
