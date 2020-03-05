@@ -59,7 +59,7 @@ Places with less or no observations are often less visited, not so accessible lo
 </div>
 
 
-Historical insight. Some observations come from from the users' picture archives. 
+Historical insight. Some observations come from the users' picture archives. 
 
 <div align="center">
     <img src="/hex_map_history_edited.png?raw=true" width="1000px"</img> 
