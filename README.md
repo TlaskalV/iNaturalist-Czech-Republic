@@ -12,6 +12,7 @@ Spatiotemporal focused statistics based on research grade observations for Czech
 * [Density of obs](#density-of-obs)
 * [Observation increase](#observation-increase)
 * [Seasonal differences](#seasonal-differences)
+* [Weekday differences](#weekday-differences)
 * [Observed organisms](#observed-organisms)
 * [More IDs needed](#more-IDs-needed)
 * [References](#references)
@@ -90,7 +91,7 @@ Total observation sum per month. Main season is from April to June. starting wit
 
 ## Weekday patterns
 
-Saturday is the best day for observations! Go out and maybe you will meet other observers.
+Saturday is the best day for observations! Go out and maybe you will meet other observers. Mean values are calculated based on records since 2018.
 
 <div align="center">
     <img src="/plot_weekday.png?raw=true" width="600px"</img> 
