@@ -88,6 +88,14 @@ Total observation sum per month. Main season is from April to June. starting wit
     <img src="/plot_season.png?raw=true" width="600px"</img> 
 </div>
 
+## Weekday patterns
+
+Saturday is the best day for observations! Go out and maybe you will meet other observers.
+
+<div align="center">
+    <img src="/plot_weekday.png?raw=true" width="600px"</img> 
+</div>
+
 ## Observed organisms
 
 Organisms recorded in the iNat database are grouped into iconic names similarly to the webpage. Upper chart has log-transformed y axis to better display differences in low abundant taxons. Interestingly, mammals are not among top observed groups. Plants are easy to observe they do not run ;) Aves can fly away but their occurrence in the cities is high and are observed often.
