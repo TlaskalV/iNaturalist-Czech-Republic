@@ -75,7 +75,14 @@ Histrogram of observations since 2018.
     <img src="/plot_obs.png?raw=true" width="600px"</img> 
 </div>
 
-Same data as **cumulative sum** with fitted prediction model. Plato phase starting in autumn 2019 and continuing in winter after City challenge boost is well visible.
+Same data plotted as **cumulative sum** with fitted prediction model. Plato phase starting in autumn 2019 and continuing in winter after City challenge boost is well visible.
+
+Model is equal to
+
+```
+count of observations = 72.8x - 10838
+```
+With the current rate of observation upload the **total number of research grade observations in Czech Republic will be doubled (104K) at the end of April 2022** according to the model.
 
 <div align="center">
     <img src="/plot_obs_cum_sum.png?raw=true" width="600px"</img> 
