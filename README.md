@@ -5,6 +5,8 @@ Spatiotemporal focused statistics based on research grade observations for Czech
     <img align="right" src="/iNaturalist_logo.png?raw=true" width="100px"</img>
 </div>
 
+[![DOI](https://zenodo.org/badge/244349094.svg)](https://zenodo.org/badge/latestdoi/244349094)
+
 ## Parts
 
 * [Intro](#introduction)
