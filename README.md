@@ -16,6 +16,7 @@ Spatiotemporal focused statistics based on research grade observations for Czech
 * [Seasonal differences](#seasonal-differences)
 * [Weekday differences](#weekday-differences)
 * [Observed organisms](#observed-organisms)
+* [Diversity within taxons] (#diversity-within-taxons)
 * [More IDs needed](#more-IDs-needed)
 * [References](#references)
 
