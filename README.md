@@ -149,6 +149,7 @@ This analysis would not be possible without following awesome packages.
 -   base (R Core Team 2019a)
 -   forecast (Hyndman et al. 2020)
 -	ggthemr (Tobin 2020)
+-	ggrepel (Slowikowski 2019)
 -	lubridate (Grolemund and Wickham 2011)
 -   OpenStreetMap (Fellows and JMapViewer library by Jan Peter Stotz)
 -	patchwork (Pedersen 2017)
