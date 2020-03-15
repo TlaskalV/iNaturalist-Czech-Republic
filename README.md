@@ -16,7 +16,7 @@ Spatiotemporal focused statistics based on research grade observations for Czech
 * [Seasonal differences](#seasonal-differences)
 * [Weekday differences](#weekday-differences)
 * [Observed organisms](#observed-organisms)
-* [Diversity within taxons] (#diversity-within-taxons)
+* [Diversity within taxons](#diversity-within-taxons)
 * [More IDs needed](#more-IDs-needed)
 * [References](#references)
 
@@ -25,7 +25,7 @@ Intentionally avoiding user-focused statistics here are some data about iNatural
 
 From the 85 726 verifiable obs (28th Feb 2020) there are **52 022 (60.7%) which made it to research grade** and have GPS coordinates available. City challenge 2019 weekend (April) represented top three days (total 4 471 obs, 8.6%) in the Czech observation history.
 
-In total there are 3 994 different observed species.
+In total there are **3 994 different observed species**.
 
 Are you coming to this page later in 2020 and do you wonder what is new among observations? Check [iNat page here](https://www.inaturalist.org/observations?place_id=8264)
 
@@ -126,7 +126,7 @@ Let's look at the **seasonal patterns of the top four observed taxon**. Plants a
 </div>
 
 ## Diversity within taxons
-Diversity within iconic taxons shows Fungi to be more diverse with lower observations than Aves. Similarly Insecta are more diverse with much less observation than Plantae. It is easy to observe vast diversity of both Fungi and Insecta.
+Diversity within iconic taxons shows Fungi to be more diverse with lower observations than Aves. Similarly, Insecta are more diverse with much less observation than Plantae. It is easy to observe vast diversity of both Fungi and Insecta.
 
 <div align="center">
     <img src="/diversity_per_taxon.png?raw=true" width="600px"</img> 
