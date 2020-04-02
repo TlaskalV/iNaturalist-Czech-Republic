@@ -51,8 +51,6 @@ Below is statistics about speed of data upload and verification. Displayed are *
 | status | nickname |  days |
 |:---------:|:-------:|:-------:|
 |    time needed to post obs     | observer efficiency |  13.8 ± 0.3     | 
-|  time needed for reaserach grade   |  community efficiency | 41.6 ± 0.5    |
-|    since obs to research grade     | whole observation time life |  55.4 ± 0.6    |
 
 
 ## Density of obs
