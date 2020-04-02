@@ -25,7 +25,7 @@ Intentionally avoiding user-focused statistics here are some data about iNatural
 
 From the 85 726 verifiable obs (28th Feb 2020) there are **52 022 (60.7%) which made it to research grade** and have GPS coordinates available. City challenge 2019 weekend (April) represented top three days (total 4 471 obs, 8.6%) in the Czech observation history.
 
-In total there are **3 994 different observed species**.
+In total there are **3 994 different observed species**. 32.2% of them are observed only once (i.e. singletons).
 
 Are you coming to this page later in 2020 and do you wonder what is new among observations? Check [iNat page here](https://www.inaturalist.org/observations?place_id=8264)
 
