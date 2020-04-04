@@ -13,6 +13,7 @@ Spatiotemporal focused statistics based on research grade observations for Czech
 * [Time aspect](#time-aspect)
 * [Density of obs](#density-of-obs)
 * [Observation increase](#observation-increase)
+* [Diversity increase](#diversity-increase)
 * [Seasonal differences](#seasonal-differences)
 * [Weekday differences](#weekday-differences)
 * [Observed organisms](#observed-organisms)
@@ -87,6 +88,14 @@ With the current rate of observation upload the **total number of research grade
 
 <div align="center">
     <img src="/plot_obs_cum_sum.png?raw=true" width="600px"</img> 
+</div>
+
+## Introduction
+
+Diversity increase as per day count of species observed for the first time in Czech Republic.
+
+<div align="center">
+    <img src="/plot_div increase.png?raw=true" width="600px"</img> 
 </div>
 
 ## Seasonal patterns
