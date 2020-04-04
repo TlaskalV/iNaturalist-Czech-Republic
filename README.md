@@ -90,7 +90,7 @@ With the current rate of observation upload the **total number of research grade
     <img src="/plot_obs_cum_sum.png?raw=true" width="600px"</img> 
 </div>
 
-## Introduction
+## Diversity increase
 
 Diversity increase as per day count of species observed for the first time in Czech Republic.
 
