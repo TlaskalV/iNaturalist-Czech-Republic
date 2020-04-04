@@ -95,7 +95,7 @@ With the current rate of observation upload the **total number of research grade
 Diversity increase as per day count of species observed for the first time in Czech Republic.
 
 <div align="center">
-    <img src="/plot_div increase.png?raw=true" width="600px"</img> 
+    <img src="/plot_div_increase.png?raw=true" width="600px"</img> 
 </div>
 
 ## Seasonal patterns
