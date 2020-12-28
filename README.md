@@ -1,5 +1,5 @@
-# iNaturalist stats for Czech Republic Feb 2020
-Spatiotemporal focused statistics based on research grade observations for Czech Republic accessed on February 2020.
+# iNaturalist stats for Czech Republic Dec 2020
+Summary of iNaturalist research grade observations for Czech Republic accessed on December 2020 through GBIF [Download DOI](https://doi.org/10.15468/dl.afye4c)
 
 <div float="right">
     <img align="right" src="/iNaturalist_logo.png?raw=true" width="100px"</img>
@@ -10,7 +10,6 @@ Spatiotemporal focused statistics based on research grade observations for Czech
 ## Parts
 
 * [Intro](#introduction)
-* [Time aspect](#time-aspect)
 * [Density of obs](#density-of-obs)
 * [Observation increase](#observation-increase)
 * [Diversity increase](#diversity-increase)
@@ -18,17 +17,17 @@ Spatiotemporal focused statistics based on research grade observations for Czech
 * [Weekday differences](#weekday-differences)
 * [Observed organisms](#observed-organisms)
 * [Diversity within taxons](#diversity-within-taxons)
-* [More IDs needed](#more-IDs-needed)
+* [Contribution of main observers](#contribution-of-observers)
 * [References](#references)
 
 ## Introduction
-Intentionally avoiding user-focused statistics here are some data about iNaturalist observations from Czech Republic downloaded before main observation season of 2020. There were **two City nature challenge** campaigns in Prague which boosted obs upload. 
+Data about iNaturalist observations from Czech Republic downloaded at the end of busy year 2020 through GBIF database. There were **three City nature challenge** campaigns in Prague and Brno which boosted obs upload. 
 
-From the 85 726 verifiable obs (28th Feb 2020) there are **52 022 (60.7%) which made it to research grade** and have GPS coordinates available. City challenge 2019 weekend (April) represented top three days (total 4 471 obs, 8.6%) in the Czech observation history.
+There are **87 021 observations which made it to research grade** and have GPS coordinates available. This represent 0.4% of global iNaturalist research grade observations. City challenge 2020 weekend (April) represented top four days (total 5 478 obs) in the Czech observation history (6.3%).
 
-In total there are **3 994 different observed species**. 32.2% of them are observed only once (i.e. singletons).
+In total there are **4 850 different observed species**. 29.8% of them are observed only once (i.e. singletons).
 
-Are you coming to this page later in 2020 and do you wonder what is new among observations? Check [iNat page here](https://www.inaturalist.org/observations?place_id=8264)
+Are you coming to this page later in 2021 and do you wonder what is new among observations? Check [iNat page here](https://www.inaturalist.org/observations?place_id=8264) or [GBIF webpage for iNaturalist](https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7). This GitHub repo is based on [GBIF download](https://doi.org/10.15468/dl.afye4c).
 
 
 ---
@@ -41,17 +40,11 @@ Are you coming to this page later in 2020 and do you wonder what is new among ob
 
 * Early spring and late autumn observations are underrepresented.
 
-* Insects, fungi and spiders have potential for increase in the database of research grade obs. More specialists are needed.
+* almost 30% of observations are taxonomic singletons
+
 
 
 ---
-
-## Time aspect
-Below is statistics about speed of data upload and verification. Displayed are **means from obs since 2018** which represented increase in iNat usage in Czech Republic (n = 34 269, 65.9% from research grade).
-
-| status | nickname |  days |
-|:---------:|:-------:|:-------:|
-|    time needed to post obs     | observer efficiency |  13.8 ± 0.3     | 
 
 
 ## Density of obs
@@ -60,7 +53,7 @@ Shows observation density for the whole country. Interestingly, density hotspots
 Places with less or no observations are often less visited, not so accessible locations (Beskydy, Jeseniky, Zelezne hory, Cesky Les).
 
 <div align="center">
-    <img src="/hex_map_edited.png?raw=true" width="1000px"</img> 
+    <img src="/dot_map.png?raw=true" width="1000px"</img> 
 </div>
 
 
@@ -73,18 +66,13 @@ Historical insight. Some observations come from the users' picture archives.
 
 ## Observation increase
 
-Histrogram of observations since 2018.
+Per day observation count since 2018.
 
 <div align="center">
     <img src="/plot_obs.png?raw=true" width="600px"</img> 
 </div>
 
-Same data plotted as **cumulative sum** with fitted prediction model. Plato phase starting in autumn 2019 and continuing in winter after City challenge boost is well visible. Model is as follows.
-
-```
-count of observations = 72.8x - 10838
-```
-With the current rate of observation upload the **total number of research grade observations in Czech Republic will be doubled (104K) at the end of April 2022**.
+Same data plotted as **cumulative sum**. 
 
 <div align="center">
     <img src="/plot_obs_cum_sum.png?raw=true" width="600px"</img> 
@@ -100,7 +88,7 @@ Diversity increase as per day count of species observed for the first time in Cz
 
 ## Seasonal patterns
 
-Total observation sum per month. Main season is from April to June. starting with July the observation number is decreasing towards low values in winter.
+Total observation sum per month. Main season is from April to July. starting with August the observation number is decreasing towards low values in winter.
 
 <div align="center">
     <img src="/plot_season.png?raw=true" width="600px"</img> 
@@ -114,53 +102,43 @@ Saturday is the best day for observations! Go out and maybe you will meet other 
     <img src="/plot_weekday.png?raw=true" width="600px"</img> 
 </div>
 
-## Observed organisms
+## Observed organisms at the phylum level
 
-Organisms recorded in the iNat database are grouped into iconic names similarly to the webpage. Upper chart has log-transformed y axis to better display differences in low abundant taxons. Interestingly, mammals are not among top observed groups. Plants are easy to observe they do not run ;) Aves can fly away but their occurrence in the cities is high and are observed often.
-
-<div align="right">
-    <img src="/icons.png?raw=true" width="200px"</img> 
-</div>
+Interestingly, mammals are not among top observed groups. Plants are easy to observe they do not run ;) Aves can fly away but their occurrence in the cities is high and are observed often. Note low count of Other phyla.
 
 <div align="center">
     <img src="/plot_kingdom.png?raw=true" width="600px"</img> 
 </div>
 
-Let's look at the **seasonal patterns of the top four observed taxon**. Plants and birds are enriched by City challenge. Insects and fungi are not influenced by campaigns and have expectable pattern corresponding to their occurrence throughout the year.
+Let's look at the **seasonal patterns of the top six observed phyla**. Plants and birds are enriched by City challenge. Insects and fungi are not influenced by campaigns and have expectable pattern corresponding to their occurrence throughout the year.
 
 <div align="center">
     <img src="/plot_dominant_kingdoms.png?raw=true" width="600px"</img> 
 </div>
 
 ## Diversity within taxons
-Diversity within iconic taxons shows Fungi to be more diverse with lower observations than Aves. Similarly, Insecta are more diverse with much less observation than Plantae. It is easy to observe vast diversity of both Fungi and Insecta.
+Diversity within phyla shows Insecta to be more diverse with much less observation than Plantae. It is easy to observe vast diversity of Insecta. Similarly for fungi.
 
 <div align="center">
     <img src="/diversity_per_taxon.png?raw=true" width="600px"</img> 
 </div>
 
-## More IDs needed
-
-From the 85 726 verifiable obs (28th Feb 2020) there are **25 494 (29.7%) obs without community ID (no research grade)**. 
-
-Who are these? Do we need more specialists on these taxa?
+## Contribution of main observers
+Observation count versus species count for main observers. Some of them repeat observed species, some of them upload new species quite often. The green line indicates 1:1 (observation:new species).
 
 <div align="center">
-    <img src="/plot_kingdom_need_id.png?raw=true" width="600px"</img> 
+    <img src="/user_contribution.png?raw=true" width="600px"</img> 
 </div>
+
 
 ## References
 
 This analysis would not be possible without following awesome packages.
 
 -   base (R Core Team 2019a)
--   forecast (Hyndman et al. 2020)
 -	ggthemr (Tobin 2020)
 -	ggrepel (Slowikowski 2019)
 -	lubridate (Grolemund and Wickham 2011)
 -   OpenStreetMap (Fellows and JMapViewer library by Jan Peter Stotz)
--	patchwork (Pedersen 2017)
--   rgdal (Bivand, Keitt, and Rowlingson 2019)
--   Rmisc (Hope 2013)
 -   tidyverse (Wickham 2017)
 
