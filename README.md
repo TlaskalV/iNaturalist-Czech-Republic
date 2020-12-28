@@ -1,5 +1,5 @@
 # iNaturalist stats for Czech Republic Dec 2020
-Summary of iNaturalist research grade observations for Czech Republic accessed on December 2020 through GBIF [Download DOI](https://doi.org/10.15468/dl.afye4c)
+Summary of iNaturalist research grade observations for Czech Republic accessed on December 2020 through GBIF database [DOI](https://doi.org/10.15468/dl.afye4c)
 
 <div float="right">
     <img align="right" src="/iNaturalist_logo.png?raw=true" width="100px"</img>
@@ -27,7 +27,14 @@ There are **87 021 observations which made it to research grade** and have GPS c
 
 In total there are **4 850 different observed species**. 29.8% of them are observed only once (i.e. singletons).
 
-Are you coming to this page later in 2021 and do you wonder what is new among observations? Check [iNat page here](https://www.inaturalist.org/observations?place_id=8264) or [GBIF webpage for iNaturalist](https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7). This GitHub repo is based on [GBIF download](https://doi.org/10.15468/dl.afye4c).
+Are you coming to this page later in 2021 and do you wonder what is new among observations? Check 
+* [iNat page here](https://www.inaturalist.org/observations?place_id=8264) 
+
+or 
+
+* [GBIF webpage for iNaturalist](https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7). 
+
+This GitHub repo is based on [GBIF download](https://doi.org/10.15468/dl.afye4c).
 
 
 ---
