@@ -17,7 +17,7 @@ Summary of iNaturalist research grade observations for Czech Republic accessed o
 * [Weekday differences](#weekday-differences)
 * [Observed organisms](#observed-organisms)
 * [Diversity within taxons](#diversity-within-taxons)
-* [Contribution of main observers](#contribution-of-observers)
+* [Contribution of main observers](#contribution-of-main-observers)
 * [References](#references)
 
 ## Introduction
